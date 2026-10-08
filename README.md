@@ -15,7 +15,7 @@ Add your team (name + members) on an empty `- ` line below:
 - Git Happens: Sophia Leah Ravner, Alesia Kokonaj
 - The Biased Priors: Ryan McCann, Lorenz Rausch, Lorenz Bodner
 - The Matrix Confusers : Thomas, Isabella 
-- 
+- Grammar of Garlics: Eugeniu, Grgely, Andrei
 - 
 
 Don't forget to pick a funny name that is a pun on the contents of this class! Some inspirations from the past:
